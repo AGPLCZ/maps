@@ -4,7 +4,7 @@ require_once 'db.meekro.php';
 
 // Defaultní nastavení pro produkční server
 $user = 'dobrodruzi.cz';
-$password = '2Ie5KVZ7';
+$password = '';
 $dbName = 'dobrodruzi_py';
 $host = '127.0.0.1'; 
 
